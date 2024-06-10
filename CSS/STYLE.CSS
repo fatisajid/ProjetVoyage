@@ -1,0 +1,129 @@
+section {
+    width: 60%;
+    margin: 10px auto;
+    border-radius: 15px;
+}
+
+header {
+
+    background: linear-gradient(to top, rgb(35, 140, 201), rgb(40, 231, 183));
+    color: white;
+    height: 80px;
+    border: 1px solid white;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+.logo {
+
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+li a {
+    /* display: flex; */
+    /* justify-content: space-between; */
+    text-decoration: none;
+    color: white;
+}
+
+li {
+    margin: 12px;
+}
+
+
+
+div img {
+
+    width: 60px;
+    height: 80px;
+}
+
+
+
+
+
+nav ul {
+    text-decoration: none;
+    color: white;
+    display: flex;
+    align-items: flex-end;
+    list-style-type: none;
+    justify-content: space-between;
+}
+
+
+
+
+
+main p {
+
+    background: linear-gradient(to top, rgb(35, 140, 201), rgb(40, 231, 183));
+    margin-top: 0px;
+    color: white;
+    text-align: right;
+}
+
+
+
+section img {
+    width: 210px;
+    height: 210px;
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+    margin-right: 80px;
+    border-radius: 50%;
+}
+
+.zone1 {
+    background: linear-gradient(to left, #d88dd8, #68d4e2);
+    display: flex;
+    color: white;
+}
+
+
+.zone2 {
+    background: linear-gradient(to top, rgb(35, 140, 201), rgb(40, 231, 183));
+    flex-direction: row-reverse;
+    display: flex;
+    color: white;
+    text-align: center;
+}
+
+
+.zone3 {
+    background: linear-gradient(to bottom, rgb(87, 76, 247), rgb(196, 224, 35));
+    color: white;
+    display: flex;
+    text-align: end;
+}
+
+div p, h3{
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+
+
+footer {
+    background: linear-gradient(to top, rgb(35, 140, 201), rgb(40, 231, 183));
+    color: white;
+    padding-top: 10px;
+    padding-left: 10px;
+    height: 70px;
+}
+
+h3{
+    color: white;
+}
+
+/* footer .fa-brands {
+
+    align-items: flex-end;
+
+} */
